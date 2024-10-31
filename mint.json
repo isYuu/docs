@@ -55,12 +55,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development",
-        "message"
-      ]
+      "pages": ["introduction", "quickstart", "development", "message"]
     },
     {
       "group": "Essentials",
@@ -75,16 +70,16 @@
     },
     {
       "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "pages": ["api-reference/introduction"]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/delete",
+        "api-reference/endpoint/random_joke",
+        "api-reference/endpoint/age"
       ]
     }
   ],
