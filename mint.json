@@ -29,6 +29,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "API",
+      "url": "api"
     }
   ],
   "anchors": [
@@ -54,7 +58,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "message"
       ]
     },
     {
