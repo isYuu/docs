@@ -58,6 +58,10 @@
       "pages": ["introduction", "quickstart", "development", "message"]
     },
     {
+      "group": "Message",
+      "pages": ["msg/SI", "msg/CP", "msg/MAS"]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
